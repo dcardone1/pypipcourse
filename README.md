@@ -6,6 +6,7 @@ Instrucciones para correr el juego en la terminal
 cd game
 python3 main.py
 ```
+#App project.
 
 ```sh
 git clone
