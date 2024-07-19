@@ -6,7 +6,9 @@ Instrucciones para correr el juego en la terminal
 cd game
 python3 main.py
 ```
+
 #App project frec.
+
 
 ```sh
 git clone
